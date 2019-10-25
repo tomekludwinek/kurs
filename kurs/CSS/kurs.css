@@ -1,0 +1,15 @@
+table, tr, th, td {
+  border: solid 1px silver;
+  border-collapse:separate;
+  padding: 20px;
+  text-align: center;
+}
+th {
+  background-color: grey;
+  color: white;
+}
+.one {background-color: yellow}
+.two {background-color: lightblue}
+.three {background-color: green}
+.four { background-color: lightgrey}
+ol {color: red;}
